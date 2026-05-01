@@ -1,0 +1,6 @@
+# Add your Python dependencies here, e.g.,
+# transformers
+# accelerate
+# edge-tts
+# requests
+# pytrends
