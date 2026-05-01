@@ -1,0 +1,18 @@
+car-ai-app/
+│
+├── app.py                  # Streamlit dashboard
+├── pipeline.py             # Your full AI + video pipeline
+├── requirements.txt        # Python dependencies
+├── render.yaml             # Render config
+├── .gitignore              # Ignore unnecessary files
+│
+├── outputs/                # (NOT uploaded)
+│   ├── videos/
+│   └── data/
+│
+├── assets/
+│   └── face.mp4            # your face overlay video
+│
+└── utils/                  # helper scripts (optional)
+    ├── subtitles.py
+    └── video.py
