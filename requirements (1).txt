@@ -1,0 +1,5 @@
+transformers
+accelerate
+edge-tts
+requests
+pytrends
